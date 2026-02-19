@@ -4,7 +4,7 @@ A premium restaurant website featuring boat-themed interiors and exquisite pure 
 
 ## 🌟 Live Website
 
-**Website:** [https://peppy-sprite-d1b7e2.netlify.app](https://peppy-sprite-d1b7e2.netlify.app)
+**Website:** [https://statuesque-fox-037934.netlify.app](https://statuesque-fox-037934.netlify.app)
 
 ## ✨ Features
 
